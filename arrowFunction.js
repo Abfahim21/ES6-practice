@@ -10,3 +10,7 @@ let js = {
 };
 
 js.printLibraries();
+//arrow js
+let myName = () => console.log("MD. ABRAR FAHIM");
+
+myName();
