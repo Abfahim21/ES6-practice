@@ -1,0 +1,7 @@
+let a = [1,2,3,4,5,6,7,8,9,10];
+
+//show 5,6,7,8
+
+let result = a.slice(4,8);
+
+console.log(result);
